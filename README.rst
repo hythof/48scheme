@@ -13,6 +13,7 @@ http://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%
 3. eval_vol1
 4. error_and_exception
 5. eval_vol2
+6. repl
 7. variable
 8. function
 9. io
