@@ -1,6 +1,31 @@
 Haskellのチュートリアル「48時間でSchemeを書こう」をやってみる
 =============================================================
 
-  http://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86
-  Web上のほとんどのHaskellチュートリアルは言語についてのマニュアルのような教え方をしようとしているようです。それらには言語の文法、概念が少し載っていて、読者に対話環境でいくつかの簡単な関数を作るように指示します。よく機能する有用なプログラムの書き方は大抵最後にまわされるか、そもそも省かれていたりします。
-  このチュートリアルは違う方針を取ります。コマンドライン引数解析から始めて、完全に機能するR5RS Schemeのかなり大きなサブセットの実装まで進みます。道すがら、Haskellの持つI/O、mutable state、dynamic typing、エラー処理、そして構文解析機能を学びます。このチュートリアルを終える頃には、あなたはHaskellとScheme両方がかなり良くわかるようになっているはずです。
+ここを見ながらHaskellのお勉強
+-----------------------------
+http://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86
+
+目次
+----
+01 first_step
+02 parsing
+03 eval_vol1
+04 error_and_exception
+05 eval_vol2
+07 variable
+08 function
+09 io
+10 fold_and_unfold 
+
+Todo
+----
+[x] first_step
+[] parsing
+[] eval_vol1
+[] error_and_exception
+[] eval_vol2
+[] variable
+[] function
+[] io
+[] fold_and_unfold 
+[] 練習問題
