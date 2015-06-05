@@ -22,9 +22,9 @@ http://ja.wikibooks.org/wiki/48%E6%99%82%E9%96%93%E3%81%A7Scheme%E3%82%92%E6%9B%
 Todo
 ----
 - [x] first_step 
-- [] parsing 
-- [] eval_vol1 
-- [] error_and_exception 
+- [x] parsing 
+- [x] eval_vol1 
+- [x] error_and_exception 
 - [] eval_vol2 
 - [] variable 
 - [] function 
